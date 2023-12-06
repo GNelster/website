@@ -7,8 +7,5 @@ h2 {
 #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
-    border: 0.5rem solid darkgrey;
-  }
-.colorscheme {
-    color: #343a40;
+    border: 0.5rem solid rgb(45, 45, 45);
 }
