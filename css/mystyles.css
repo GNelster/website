@@ -4,3 +4,11 @@ h2 {
 .darkcolor {
     background-color: navy !important;
 }
+#sideNav .navbar-brand .img-profile {
+    max-width: 10rem;
+    max-height: 10rem;
+    border: 0.5rem solid darkgrey;
+  }
+.colorscheme {
+    color: #343a40;
+}
